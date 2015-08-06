@@ -1,0 +1,22 @@
+{
+  "name": "ng-scroll-pager",
+  "version": "1.0.0",
+  "description": "dead simple infinite scrolling",
+  "main": "src/ng-scroll-pager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yowmamasita/ng-scroll-pager.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Ben Sarmiento <me@bensarmiento.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yowmamasita/ng-scroll-pager/issues"
+  },
+  "homepage": "https://github.com/yowmamasita/ng-scroll-pager#readme"
+}
