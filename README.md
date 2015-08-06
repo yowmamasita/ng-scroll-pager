@@ -2,6 +2,10 @@
 
 dead simple infinite scrolling
 
+## Install
+
+`bower install --save ng-scroll-pager`
+
 ## Usage
 
 ```html
